@@ -8,7 +8,7 @@ Requirement:
  - CatBoost
 
 if dont have
-pip install -U scikit-learn
-pip install xgboost
-pip install lightgbm
-pip install catboost
+ - pip install -U scikit-learn
+ - pip install xgboost
+ - pip install lightgbm
+  -pip install catboost
