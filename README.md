@@ -1,4 +1,5 @@
-Run online_audition.ipynb
+Run 
+ - online_audition.ipynb
 
 Requirement:
  - Jupyter notebook
@@ -6,3 +7,9 @@ Requirement:
  - Xgboost
  - LightGBM
  - CatBoost
+
+if dont have
+ - pip install -U scikit-learn
+ - pip install xgboost
+ - pip install lightgbm
+ - pip install catboost
